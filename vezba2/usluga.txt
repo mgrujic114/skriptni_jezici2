@@ -1,0 +1,6 @@
+{"naziv":"ponuda1","cena":"1","opis":"opis1","kategorija":"1"}
+{"naziv":"ponuda2","cena":"2","opis":"opis2","kategorija":"2"}
+{"naziv":"ponuda3","cena":"3","opis":"opis3","kategorija":"3"}
+{"naziv":"ponuda4","cena":"4","opis":"opis4","kategorija":"1"}
+{"naziv":"ponuda5","cena":"5","opis":"opis 5","kategorija":"2"}
+{"naziv":"opcija6","cena":"6","opis":"opis6","kategorija":"3"}

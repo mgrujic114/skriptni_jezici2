@@ -1,0 +1,2 @@
+{"naziv":"opcija1","cena":"1000","opis":"opis1","kategorija":"1"}
+{"naziv":"opcija2","cena":"2000","opis":"opis2","kategorija":"2"}

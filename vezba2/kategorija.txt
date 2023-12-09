@@ -1,0 +1,2 @@
+{"naziv":"kategorija1","koeficijent":"1","opis":"opis1"}
+{"naziv":"kategorija2","koeficijent":"2","opis":"opis2"}
